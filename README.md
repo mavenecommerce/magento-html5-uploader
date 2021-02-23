@@ -1,0 +1,1 @@
+# magento-html5-uploader
