@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>mavenecommerce+HTML5_Uploader</name>
+    <version>1.0.9</version>
+    <stability>stable</stability>
+    <license uri="https://opensource.org/licenses/OSL-3.0">Open Software License (OSL)</license>
+    <channel>a3683998e813b030a4ec52cc3759392c</channel>
+    <extends/>
+    <summary>html5 uploader</summary>
+    <description>HTML5 uploader lets you upload images and CMS content in bulk. Easy to use drag and drop interface.</description>
+    <notes>Fixed: upload buttons in Downloadable Information section now work as expected</notes>
+    <authors><author><name>Maven</name><user>maven_ecommerce</user><email>extension@mavenecommerce.com</email></author></authors>
+    <date>2018-06-14</date>
+    <time>15:10:49</time>
+    <contents><target name="magecommunity"><dir name="Maven"><dir name="Html5uploader"><dir name="Block"><dir name="Adminhtml"><dir name="Cms"><dir name="Wysiwyg"><dir name="Images"><dir name="Content"><file name="Uploader.php" hash="0b4c48b3b01ef6f7814618cfc7fc213e"/></dir></dir></dir></dir><dir name="Media"><file name="Uploader.php" hash="823f5d66fc7525e03bb1bbbcafa70ab4"/></dir></dir><dir name="Uploader"><file name="Multiple.php" hash="33515ddc4932b2c713be9cf2e9d71688"/></dir></dir><dir name="Helper"><file name="Data.php" hash="124a1e725c0f6205d6bb22b7b9017885"/></dir><dir name="Model"><dir name="Media"><file name="Uploader.php" hash="2a24a508f809a20eb0f35d896ce27756"/></dir></dir><dir name="controllers"><dir name="Adminhtml"><file name="AjaxController.php" hash="f7ac3832dd7a3494c022865374b1445a"/></dir></dir><dir name="etc"><file name="adminhtml.xml" hash="e65a851233905187a222f08258bf0be5"/><file name="config.xml" hash="ad75c2c32e793a8a122fe02f8ac561eb"/><file name="system.xml" hash="bfbd8132d85bce5589ed5609c048ad54"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Maven_Html5uploader.xml" hash="371bae7f48b36a55dfc75e454bc27197"/></dir></target><target name="magelocale"><dir name="en_US"><file name="Maven_Html5uploader.csv" hash="dae82c5696e999c45bb282adc7d4dafb"/></dir></target><target name="magedesign"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="layout"><file name="maven_html5uploader.xml" hash="2d8a48d9cd7613f357b8191ce2b9ded5"/></dir><dir name="template"><dir name="maven"><dir name="uploader"><dir name="1.9.3"><file name="cms_uploader.phtml" hash="eaf4138c67b33910b1e5384c5f669ad6"/><file name="uploader.phtml" hash="40bdd8c589fc7e1ee865b55fa8e423d3"/></dir><file name="cms_uploader.phtml" hash="53aeee2a2481d17ef434d912015263e3"/><file name="uploader.phtml" hash="e00309ef045611d25e85f276f3fd2f89"/></dir></dir></dir></dir></dir></dir></target><target name="mageskin"><dir name="adminhtml"><dir name="default"><dir name="default"><dir name="js"><dir name="maven_html5upload"><file name="baseuploader.js" hash="c247b2c33af4964ef80552856327688f"/><file name="jsuploader.js" hash="f6a82d782dc7a86ab67b4a1024fecaae"/><file name="script.js" hash="5f7c17b9e6915015101dd758a3f14d12"/></dir></dir><dir name="css"><dir name="maven_html5upload"><file name="progress.png" hash="c66546fae9226a2f690aead728b6e7a2"/><file name="styles.css" hash="bb2a68be5fe319143db9c75286c54401"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.3.0</min><max>5.6.99</max></php></required></dependencies>
+</package>
