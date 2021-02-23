@@ -1,5 +1,7 @@
 <p align="center">
-<a href="http://mavenecommerce.com/">![mavenecommerce](http://www.mavenecommerce.com/wp-content/themes/maven/images/logo.png)</a>
+  <a href="http://mavenecommerce.com/" target="_blank">
+    <img width="250" height="250" border="0" align="center"  src="http://www.mavenecommerce.com/wp-content/themes/maven/images/logo.png"/>
+  </a>
 </p>
 
 # Magento HTML 5 uploader
